@@ -5,9 +5,9 @@ This project uses VBA scripting within Excel to analyze stock market data.
 The VBA script in this project provides the following information:
 
 1. The script loops through one year of stock data and outputs:
-        - Ticker symbol.
-        - Yearly change from opening price to closing price.
-        - Percentage change from opening price to closing price.
+	- Ticker symbol.
+	- Yearly change from opening price to closing price.
+	- Percentage change from opening price to closing price.
 	- Total Stock Volume.
 
 2. Identifies the stock with:
