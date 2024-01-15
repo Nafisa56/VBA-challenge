@@ -2,7 +2,7 @@
 
 This project uses VBA scripting within Excel to analyze stock market data.
 
-The VBA script in this projects provides the following information:
+The VBA script in this project provides the following information:
 
 1. The script loops through one year of stock data and outputs:
         - Ticker symbol.
